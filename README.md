@@ -72,8 +72,8 @@ fitfusion/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/fitfusion.git
-cd fitfusion
+git clone https://github.com/Sanjeev2498/Fit-Track.git
+cd Fit-Track
 ```
 
 2. **Install backend dependencies**

@@ -9,3 +9,11 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 *.log
+
+# Project documentation files to exclude
+BEGINNER_GUIDE.txt
+KRMU*.docx
+PROJECT_REPORT.txt
+PROJECT_SUMMARY.md
+TEAM_WORK_DIVISION.txt
+TECHNICAL_CONCEPTS.txt
